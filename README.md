@@ -1,4 +1,4 @@
-# `Using Redux Build AddToCard`
+# Using Redux Build AddToCard
 
 # Getting Started with Create React App
 
